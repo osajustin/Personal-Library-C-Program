@@ -1,0 +1,24 @@
+Author: Memory Man
+ Title: David Baldacci
+ Genre: Fiction
+
+Author: How to Win Friends & Influence People
+ Title: Dale carnegie
+ Genre: Non-Fiction
+
+Author: to Better the Man
+ Title: Alpha Sigma Phi
+ Genre: Non-Fiction
+
+Author: C Programming in One Hour a Day
+ Title: Bradley L. Jones
+ Genre: Non-Fiction
+
+Author: Simple Pursuit: A Heart after Jesus
+ Title: Louie Giglio
+ Genre: Non-Fiction
+
+Author: Holy Bible
+ Title: God
+ Genre: Non-Fiction
+
